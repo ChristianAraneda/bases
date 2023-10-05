@@ -3,7 +3,7 @@
     let avenger = 123;
     let exists = false;
     let power;
-    avenger = 'Dr strange';
+    avenger = "Dr strange";
     // console.log(avenger.charAt(0));
     console.log(avenger.charAt(0));
     avenger = 150.12345;
