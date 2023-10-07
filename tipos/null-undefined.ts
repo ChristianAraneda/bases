@@ -1,5 +1,5 @@
 (() => {
-  let isActive: boolean = null;
+  let isActive: boolean = true;
 
   //   true, false, undefined, null
   //   null !== undefined
